@@ -1,5 +1,9 @@
+/*
+Objective:
+Update student details such as CGPA or semester and delete records based on student ID
+using Statement.
+ */
 package com.yesha;
-
 import java.sql.*;
 
 public class P04_UpdateDeleteUsingStatement {

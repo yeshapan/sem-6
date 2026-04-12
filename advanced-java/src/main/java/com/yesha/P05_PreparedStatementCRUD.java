@@ -1,3 +1,8 @@
+/*
+Objective:
+Perform insert, select, update, and delete operations on the Student table using
+PreparedStatement with user input.
+ */
 package com.yesha;
 import java.sql.*;
 import java.util.Scanner;
