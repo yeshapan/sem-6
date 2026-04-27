@@ -7,7 +7,7 @@ JDBC CallableStatement
 package com.yesha;
 import java.sql.*;
 
-public class P06_CallableStatement {
+public class P206_CallableStatement {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/StudentDB?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
 

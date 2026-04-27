@@ -7,7 +7,7 @@ package com.yesha;
 import java.sql.*;
 import java.util.Scanner;
 
-public class P05_PreparedStatementCRUD {
+public class P205_PreparedStatementCRUD {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/StudentDB?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
         Scanner scanner = new Scanner(System.in);

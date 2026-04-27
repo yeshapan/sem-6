@@ -7,7 +7,7 @@ using the JDBC Statement interface.
 package com.yesha;
 import java.sql.*;
 
-public class P02_CreateDBAndTable {
+public class P202_CreateDBAndTable {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
 

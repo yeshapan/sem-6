@@ -10,7 +10,7 @@ package com.yesha;
 //import the entire java.sql library (which contains all the JDBC classes we need)
 import java.sql.*;
 
-public class P01_VerifyConnection {
+public class P201_VerifyConnection {
     public static void main(String[] args) {
 
         // Connection String (URL).

@@ -6,7 +6,7 @@ using Statement.
 package com.yesha;
 import java.sql.*;
 
-public class P04_UpdateDeleteUsingStatement {
+public class P204_UpdateDeleteUsingStatement {
     public static void main(String[] args) {
 
         // point directly to our created StudentDB

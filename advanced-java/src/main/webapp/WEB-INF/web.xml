@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd"
+         version="4.0">
+
+    <servlet>
+        <servlet-name>BasicServlet</servlet-name>
+        <servlet-class>com.yesha.P301_BasicServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>BasicServlet</servlet-name>
+        <url-pattern>/basic</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>ClientInfoServlet</servlet-name>
+        <servlet-class>com.yesha.P302_ClientInfoServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ClientInfoServlet</servlet-name>
+        <url-pattern>/client-info</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>MVCController</servlet-name>
+        <servlet-class>com.yesha.P311_MVCController</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MVCController</servlet-name>
+        <url-pattern>/mvc</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>SMSServlet</servlet-name>
+        <servlet-class>com.yesha.P312_SMSServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SMSServlet</servlet-name>
+        <url-pattern>/sms</url-pattern>
+    </servlet-mapping>
+
+    <error-page>
+        <error-code>404</error-code>
+        <location>/P309_Error404.jsp</location>
+    </error-page>
+
+</web-app>

@@ -7,7 +7,7 @@ and ResultSet.
 package com.yesha;
 import java.sql.*;
 
-public class P03_InsertRetrieveUsingStatement {
+public class P203_InsertRetrieveUsingStatement {
     public static void main(String[] args) {
 
         // URL points specifically inside StudentDB

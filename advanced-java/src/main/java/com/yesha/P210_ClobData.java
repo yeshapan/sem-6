@@ -13,7 +13,7 @@ that are too big for standard VARCHAR columns.
 package com.yesha;
 import java.sql.*;
 
-public class P10_ClobData {
+public class P210_ClobData {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/StudentDB?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
 

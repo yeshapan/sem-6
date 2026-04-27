@@ -7,7 +7,7 @@ improve performance.
 package com.yesha;
 import java.sql.*;
 
-public class P07_JDBCBatchProcessing {
+public class P207_JDBCBatchProcessing {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/StudentDB?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
 

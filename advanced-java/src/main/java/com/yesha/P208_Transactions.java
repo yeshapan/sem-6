@@ -7,7 +7,7 @@ commit and rollback mechanisms.
 package com.yesha;
 import java.sql.*;
 
-public class P08_Transactions {
+public class P208_Transactions {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/StudentDB?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
 
