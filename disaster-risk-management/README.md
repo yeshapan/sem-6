@@ -3,24 +3,32 @@
 
 #### Q1 Vulnerability with example
 Vulnerability refers to the susceptibility of a community or system to the impacts of hazards.
-It is influenced by social, economic, and environmental factors such as poverty, population density, and infrastructure quality.  
+It is influenced by social, economic, and environmental factors such as poverty, population density, and infrastructure quality.
 
-Example: Poorly planned urban development or living in weak housing structures that cannot withstand tremors.
-Another example is susceptibility due to a lack of a specific skill, such as a person not being able to swim during a flood
+$$ Vulnerability = Exposure \times Susceptibility $$
+
+Eg: 
+* Poorly planned urban development or living in weak housing structures that cannot withstand tremors
+* Susceptibility due to a lack of a specific skill (such as a person not being able to swim during a flood)
 
 #### Q23 Vulnerability dimensions with examples.
 Vulnerability is the susceptibility of a community, system, or asset to the damaging effects of a hazard. It is influenced by several dimensions:
 * Social Dimension: Includes factors like population density and public awareness.
-    * Example: A community where people are not aware of what to do during an earthquake (and  run out of a building and cause a stampede) is more socially vulnerable.
+    * Eg: A community where people are not aware of what to do during an earthquake (and  run out of a building and cause a stampede) is more socially vulnerable.
 * Economic Dimension: Primarily relates to poverty and the lack of resources needed to cope with or recover from a disaster.
-    * Example: Poor families living in informal settlements may lack the financial means to reinforce their homes or relocate to safer areas.
+    * Eg: Poor families living in informal settlements may lack the financial means to reinforce their homes or relocate to safer areas.
 * Physical/Environmental Dimension: Refers to the quality of infrastructure and the inherent state of individuals.
-    * Example: Poor infrastructure quality makes a building physically vulnerable to collapse. Another example is a physical susceptibility like not being able to swim during a flood.
+    * Eg: Poor infrastructure quality makes a building physically vulnerable to collapse. Another example is a physical susceptibility like not being able to swim during a flood.
 
 #### Q2 Capacity in disaster management with one example.
-Coping capacity refers to the ability of individuals, communities, and systems to effectively prepare for, respond to, and recover from disasters using available resources.  
+Coping capacity refers to the ability of individuals, communities, and systems to effectively prepare for, respond to, and recover from disasters using available resources.
 
-Example: A community-based capacity example is "living among people that can help you," which provides a social support network during a crisis.
+Types of coping capacity:
+1. Individual Capacity: Knowledge and awareness of people (eg: knowing earthquake safety measures)
+2. Community Capacity: Social support systems (eg: local volunteers during floods)
+3. Institutional Capacity: Government response systems (eg: EWS, rescue teams like NDRF)
+
+Eg: A community-based capacity example is "living among people that can help you" which provides a social support network during a crisis
 
 #### Q3 Mitigation
 Mitigation refers to long-term measures taken to reduce the risk and impact of disasters by addressing the root causes and reducing vulnerability.
@@ -32,16 +40,24 @@ These actions are implemented before a disaster occurs and aim to minimize futur
 Mitigation involves a continuous process of planning and implementing measures to reduce either the risk of a disaster occurring or the severity of its impact.  
 
 * Structural Mitigation: Physical measures and engineering works to protect against hazards.  
-    * Example: Using Seismic Design and modern building materials to ensure houses do not collapse during an earthquake.
+    * Eg: Using Seismic Design and modern building materials to ensure houses do not collapse during an earthquake.
 
-* Non-Structural Mitigation: Knowledge, practice, or agreement-based measures to reduce risks and impacts.  
-    * Example: Land Use Planning to avoid building in high-risk zones, or Risk Insurance to transfer financial risk and build economic resilience.  
+* Non-Structural Mitigation: Knowledge, practice or agreement-based measures to reduce risks and impacts.  
+    * Eg: Land Use Planning to avoid building in high-risk zones, or Risk Insurance to transfer financial risk and build economic resilience.  
 
 * Technological Mitigation: Using scientific tools to improve safety.  
-    * Example: Implementing Early Warning Systems to provide timely alerts so that people can evacuate before a hazard strikes.
+    * Eg: Implementing Early Warning Systems to provide timely alerts so that people can evacuate before a hazard strikes.
 
-#### Q4 Types of disasters
-(Same as below - Q5)
+#### Q4 Disaster and characteristics:
+Disaster is a sudden catastrophic event that causes disruption, destruction and distress and affects impacted community's ability to cope using their own available resources.
+Characteristics:
+* Sudden Impact: Occurs rapidly (often without warning)
+* Large-scale damage: Causes destruction to large area/population
+* Human Loss: Death/injury/displacement
+* Economic Loss: Damage to infrastructure/property/economy
+* Exceeds Coping Capacity: Local resources are insufficient to cope
+* Chaos and Panic: Creates widespread confusion and fear
+Eg: Bhopal gas tragedy, Bhuj 2001 earthquakes
 
 #### Q5 Classification of disasters based on origin with examples.
 * Geophysical Origin: Originating from internal earth processes (e.g., earthquakes, tsunami, volcanic activity).
@@ -62,12 +78,12 @@ Mitigation involves a continuous process of planning and implementing measures t
 Hydro-meteorological disasters are events caused by deviations in the normal water cycle and/or atmospheric processes.
 They often involve complex interactions between the atmosphere and water bodies, occurring on timescales ranging from minutes to days.  
 
-Based on your course materials, these disasters include:
+These disasters include:
 * Hydrological Origin: Events caused by the overflow of water bodies or deviations in the water cycle (eg: floods, coastal erosion, landslides).  
 * Meteorological Origin: Extreme weather conditions caused by micro to meso-scale atmospheric processes (eg: cyclones, heatwaves, lightning).
 
 These disasters represent a significant global trend. Floods alone account for approximately 43.4% of disaster occurrences between 1998 and 2017.
-In India, these events cause massive social and economic disruption. The 2013 Flash Floods in Uttarakhand are cited as a major 21st-century disaster.
+These events cause massive social and economic disruption. In India, the 2013 Flash Floods in Uttarakhand are cited as a major 21st-century disaster.
 
 #### Q6 Earthquake-resistant design.
 Earthquake-resistant design focuses on constructing buildings that can withstand seismic forces to prevent collapse and protect life.  
@@ -82,11 +98,32 @@ Earthquake-resistant design focuses on constructing buildings that can withstand
     * IS 1893: The primary code for earthquake-resistant design.  
     * IS 4326: Guidelines for structural safety and construction practices.
 
+#### Q16 Features of disaster-safe construction.
+Disaster-safe construction involves building structures that can withstand natural hazards like earthquakes, floods, and cyclones.
+* Key Features:
+    * Reinforced Concrete: Use steel bars (reinforcement) inside concrete beams and columns to make the structure flexible and strong.
+    * Flexible Joints: Allow the building to sway slightly during an earthquake instead of breaking.
+    * Proper Foundation: Use deep and wide foundations to prevent the building from sinking or tilting during soil liquefaction (common in earthquakes).
+    * Lightweight Roofing: Use lighter materials for roofs in cyclone-prone areas so that if they fly off, they cause less damage.
+
+#### Q31 Importance of disaster-safe construction
+Disaster-safe construction is a primary structural mitigation strategy aimed at protecting life and property.
+* Energy Absorption: Safe construction allows a building to absorb and dissipate the energy generated by a hazard, such as seismic waves during an earthquake.
+* Preventing Collapse: By using seismic design and modern materials, structures are engineered to maintain integrity even under extreme stress, preventing the total collapse that causes most disaster-related deaths.
+* Longevity and Resilience: It ensures that critical infrastructure remains functional after a disaster, which is vital for immediate response and long-term recovery.
+
+#### Q35 Disaster-resilient infrastructure with examples.
+Disaster-resilient infrastructure refers to systems and structures designed to withstand, respond to, and recover rapidly from disaster impacts.
+* Seismic Design: Buildings and bridges designed with flexible joints and reinforced materials to survive ground shaking.
+* Multi-purpose Shelters: Strong, elevated buildings constructed in cyclone-prone coastal areas to provide a safe haven for the community.
+* Embankments and Dams: Engineering works built to control water flow and protect regions from hydrological disasters like floods.
+* Redundant Communication Networks: Technology-enabled networks that remain operational even if primary towers are damaged, ensuring continuous emergency alerts.
+
 #### Q7 Functions of government in disaster management.
-The government functions through a three-tier institutional structure (National, State and District) established by the Disaster Management Act, 2005:
+The government functions through a three-tier institutional structure: (established by the Disaster Management Act, 2005):
 
 * Central Government Functions:
-    * Formulates national policies, such as the National Disaster Management Policy (2009).  
+    * Formulates national policies (eg: National Disaster Management Policy in 2009)  
     * Approves the National Disaster Management Plan (NDMP). 
     * Provides financial support through the National Disaster Response Fund (NDRF fund) during major disasters.
     * Operates national early warning agencies like the IMD (cyclones) and INCOIS (tsunamis). 
@@ -115,6 +152,31 @@ The **National Disaster Response Force (NDRF)**, established in 2006, is India's
 * Technical Rescue Skills: Experts in rope rescue and K9 search operations to locate survivors.  
 * National Coordination: Composed of 12 battalions drawn from paramilitary forces, ready for rapid deployment during any major disaster.
 
+#### Q40 NDRF.
+* **National Disaster Response Force (NDRF)** is a specialized multi-disciplinary force created for disaster response.
+* It consists of battalions from various Central Armed Police Forces (who are specifically trained for disaster response duties).
+* NDRF personnel are trained in urban search and rescue (USAR), flood rescue, and handling Chemical, Biological, Radiological, and Nuclear (CBRN) emergencies.
+* They are strategically stationed across the country for rapid deployment during catastrophes to save lives and provide immediate relief.
+
+#### Q39 NDMA.
+* **National Disaster Management Authority (NDMA)** was established under the Disaster Management Act, 2005.
+* Chaired by the Prime Minister of India.
+* Responsible for formulating the **National Disaster Management Plan (NDMP)** and ensuring that all departments of the government integrate disaster prevention and mitigation into their development plans.
+* Provides technical support to **State Disaster Management Authorities (SDMAs)** and coordinates the enforcement and implementation of disaster management policies across the country.
+
+#### Q27 Role of NDMA and NDRF in disaster management.
+NDMA and NDRF are critical components of India's institutional structure for disaster management.
+* NDMA:
+    * Acts as the apex body at the national level
+    * Chaired by the Prime Minister
+    * Responsible for making policies, plans and guidelines for disaster management.
+
+* NDRF:
+    * Specialized force for responding to threatening disaster situations or actual disasters
+    * Provides expert rescue and relief operations.
+
+* Coordination: NDMA provides the policy framework and oversight, while NDRF provides the specialized operational response on the ground.
+
 #### Q9 Disaster preparedness
 Preparedness is a state of readiness that enables stakeholders to mobilize and provide relief for an impending or actual disaster.
 It focuses on the ability of individuals and communities to effectively respond to and cope with the consequences of a disaster.
@@ -126,6 +188,14 @@ It focuses on the ability of individuals and communities to effectively respond 
     * Develop evacuation plans + identify safe shelter locations.
 
 Basically, the objective is to ensure that when a hazard strikes, the response is swift and organized (minimize the loss of life and property)
+
+#### Q41 Preparedness phase.
+Preparedness represents a state of readiness that enables stakeholders to mobilize, organize, and provide relief to deal with an impending or actual disaster or its effects. This phase occurs before the event strikes. It involves:
+* Readying Stakeholders: Ensuring that communities and government/non-government agencies are equipped to provide immediate relief.
+* Proactive Planning: Developing strategies and identifying potential hazards before they manifest into a disaster.
+* Mitigation Integration: Building capacity to reduce the severity of a disaster's impact through advance planning.
+* Predictive Action: Science enables the prediction of events during this phase, which then allows for technology-enabled action during the response.
+
 
 #### Q10 Response phase.
 It consists of actions taken during or immediately after a disaster.
@@ -270,26 +340,7 @@ Hazard zonation involves dividing a geographic area into distinct zones based on
 * Prioritizing Resources: It allows governments to prioritize the deployment of early warning systems and specialized rescue forces (like the NDRF) in the most vulnerable areas.
 * Informed Land Use: It serves as the primary map for land use planning, identifying where development should be restricted to prevent future disasters.
 
-#### Q16 Features of disaster-safe construction.
-Disaster-safe construction involves building structures that can withstand natural hazards like earthquakes, floods, and cyclones.
-* Key Features:
-    * Reinforced Concrete: Use steel bars (reinforcement) inside concrete beams and columns to make the structure flexible and strong.
-    * Flexible Joints: Allow the building to sway slightly during an earthquake instead of breaking.
-    * Proper Foundation: Use deep and wide foundations to prevent the building from sinking or tilting during soil liquefaction (common in earthquakes).
-    * Lightweight Roofing: Use lighter materials for roofs in cyclone-prone areas so that if they fly off, they cause less damage.
 
-#### Q31 Importance of disaster-safe construction
-Disaster-safe construction is a primary structural mitigation strategy aimed at protecting life and property.
-* Energy Absorption: Safe construction allows a building to absorb and dissipate the energy generated by a hazard, such as seismic waves during an earthquake.
-* Preventing Collapse: By using seismic design and modern materials, structures are engineered to maintain integrity even under extreme stress, preventing the total collapse that causes most disaster-related deaths.
-* Longevity and Resilience: It ensures that critical infrastructure remains functional after a disaster, which is vital for immediate response and long-term recovery.
-
-#### Q35 Disaster-resilient infrastructure with examples.
-Disaster-resilient infrastructure refers to systems and structures designed to withstand, respond to, and recover rapidly from disaster impacts.
-* Seismic Design: Buildings and bridges designed with flexible joints and reinforced materials to survive ground shaking.
-* Multi-purpose Shelters: Strong, elevated buildings constructed in cyclone-prone coastal areas to provide a safe haven for the community.
-* Embankments and Dams: Engineering works built to control water flow and protect regions from hydrological disasters like floods.
-* Redundant Communication Networks: Technology-enabled networks that remain operational even if primary towers are damaged, ensuring continuous emergency alerts.
 
 #### Q17 Floodplain zoning.
 Floodplain zoning is a land-use planning tool that restricts construction and development in areas prone to flooding. It involves dividing a floodplain into different zones based on flood risk.
@@ -367,37 +418,7 @@ The disaster management cycle is a framework that defines the stages of a disast
 * Response: Measures taken during or immediately after a disaster to alleviate suffering, injury, or distress. Eg: emergency management like search and rescue.
 * Recovery: Actions taken by the community and government agencies to reset conditions after a disaster and minimize future vulnerability. Eg: infrastructure restoration and reconstruction.
 
-#### Q41 Preparedness phase.
-Preparedness represents a state of readiness that enables stakeholders to mobilize, organize, and provide relief to deal with an impending or actual disaster or its effects. This phase occurs before the event strikes.It involves:
-* Readying Stakeholders: Ensuring that communities and government/non-government agencies are equipped to provide immediate relief.
-* Proactive Planning: Developing strategies and identifying potential hazards before they manifest into a disaster.
-* Mitigation Integration: Building capacity to reduce the severity of a disaster's impact through advance planning.
-* Predictive Action: Science enables the prediction of events during this phase, which then allows for technology-enabled action during the response.
 
-#### Q27 Role of NDMA and NDRF in disaster management.
-NDMA and NDRF are critical components of India's institutional structure for disaster management.
-* NDMA:
-    * Acts as the apex body at the national level
-    * Chaired by the Prime Minister
-    * Responsible for making policies, plans and guidelines for disaster management.
-
-* NDRF:
-    * Specialized force for responding to threatening disaster situations or actual disasters
-    * Provides expert rescue and relief operations.
-
-* Coordination: NDMA provides the policy framework and oversight, while NDRF provides the specialized operational response on the ground.
-
-#### Q39 NDMA.
-* **National Disaster Management Authority (NDMA)** was established under the Disaster Management Act, 2005.
-* Chaired by the Prime Minister of India.
-* Responsible for formulating the **National Disaster Management Plan (NDMP)** and ensuring that all departments of the government integrate disaster prevention and mitigation into their development plans.
-* Provides technical support to **State Disaster Management Authorities (SDMAs)** and coordinates the enforcement and implementation of disaster management policies across the country.
-
-#### Q40 NDRF.
-* **National Disaster Response Force (NDRF)** is a specialized multi-disciplinary force created for disaster response.
-* It consists of battalions from various Central Armed Police Forces (who are specifically trained for disaster response duties).
-* NDRF personnel are trained in urban search and rescue (USAR), flood rescue, and handling Chemical, Biological, Radiological, and Nuclear (CBRN) emergencies.
-* They are strategically stationed across the country for rapid deployment during catastrophes to save lives and provide immediate relief.
 
 #### Q28 Role of technology in disaster management.
 Science and Technology (S&T) are critical across all four phases of disaster management (prevention/preparedness/response/recovery) by providing the tools necessary for evidence-based decision-making.
